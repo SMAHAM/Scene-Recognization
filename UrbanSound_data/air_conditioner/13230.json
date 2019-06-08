@@ -1,0 +1,51 @@
+{
+    "analysis_frames": "http://www.freesound.org/data/analysis/13/13230_36298_frames.json",
+    "analysis_stats": "http://www.freesound.org/api/sounds/13230/analysis/",
+    "avg_rating": 7.0,
+    "bitdepth": 0,
+    "bitrate": 1378,
+    "channels": 2,
+    "created": "2005-12-20 10:41:09",
+    "description": "60 seconds of unedited sound from an air conditioner, a neighborhood band, and other sounds of urban America.",
+    "duration": 61.2582,
+    "filesize": 980895,
+    "geotag": {
+        "lat": 33.5620311338,
+        "lon": -101.879557371
+    },
+    "id": 13230,
+    "license": "http://creativecommons.org/licenses/sampling+/1.0/",
+    "num_comments": 0,
+    "num_downloads": 136,
+    "num_ratings": 4,
+    "original_filename": "Living Minute - In the Back Yard on the Fourth of July.mp3",
+    "pack": "http://www.freesound.org/api/packs/686/",
+    "preview-hq-mp3": "http://www.freesound.org/data/previews/13/13230_36298-hq.mp3",
+    "preview-hq-ogg": "http://www.freesound.org/data/previews/13/13230_36298-hq.ogg",
+    "preview-lq-mp3": "http://www.freesound.org/data/previews/13/13230_36298-lq.mp3",
+    "preview-lq-ogg": "http://www.freesound.org/data/previews/13/13230_36298-lq.ogg",
+    "ref": "http://www.freesound.org/api/sounds/13230/",
+    "samplerate": 44100.0,
+    "serve": "http://www.freesound.org/api/sounds/13230/serve/",
+    "similarity": "http://www.freesound.org/api/sounds/13230/similar/",
+    "spectral_l": "http://www.freesound.org/data/displays/13/13230_36298_spec_L.jpg",
+    "spectral_m": "http://www.freesound.org/data/displays/13/13230_36298_spec_M.jpg",
+    "tags": [
+        "background",
+        "environment",
+        "exterior",
+        "field-recording",
+        "music",
+        "natural",
+        "surrounding"
+    ],
+    "type": "mp3",
+    "url": "http://www.freesound.org/people/Incarnadine/sounds/13230/",
+    "user": {
+        "ref": "http://www.freesound.org/api/people/Incarnadine/",
+        "url": "http://www.freesound.org/people/Incarnadine/",
+        "username": "Incarnadine"
+    },
+    "waveform_l": "http://www.freesound.org/data/displays/13/13230_36298_wave_L.png",
+    "waveform_m": "http://www.freesound.org/data/displays/13/13230_36298_wave_M.png"
+}

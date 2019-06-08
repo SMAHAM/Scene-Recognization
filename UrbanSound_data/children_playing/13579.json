@@ -1,0 +1,47 @@
+{
+    "analysis_frames": "http://www.freesound.org/data/analysis/13/13579_36042_frames.json",
+    "analysis_stats": "http://www.freesound.org/api/sounds/13579/analysis/",
+    "avg_rating": 8.0,
+    "bitdepth": 0,
+    "bitrate": 1378,
+    "channels": 2,
+    "created": "2006-01-02 11:00:54",
+    "description": "Children playing football in a little square (Barcelona).\nRecorded with MD MZ-R30 &amp; ECM-929LT microphone.",
+    "duration": 163.528,
+    "filesize": 6542198,
+    "geotag": {
+        "lat": 41.4002157584,
+        "lon": 2.15754747391
+    },
+    "id": 13579,
+    "license": "http://creativecommons.org/licenses/by/3.0/",
+    "num_comments": 1,
+    "num_downloads": 479,
+    "num_ratings": 6,
+    "original_filename": "streetlife_football_1.mp3",
+    "pack": "http://www.freesound.org/api/packs/1154/",
+    "preview-hq-mp3": "http://www.freesound.org/data/previews/13/13579_36042-hq.mp3",
+    "preview-hq-ogg": "http://www.freesound.org/data/previews/13/13579_36042-hq.ogg",
+    "preview-lq-mp3": "http://www.freesound.org/data/previews/13/13579_36042-lq.mp3",
+    "preview-lq-ogg": "http://www.freesound.org/data/previews/13/13579_36042-lq.ogg",
+    "ref": "http://www.freesound.org/api/sounds/13579/",
+    "samplerate": 44100.0,
+    "serve": "http://www.freesound.org/api/sounds/13579/serve/",
+    "similarity": "http://www.freesound.org/api/sounds/13579/similar/",
+    "spectral_l": "http://www.freesound.org/data/displays/13/13579_36042_spec_L.jpg",
+    "spectral_m": "http://www.freesound.org/data/displays/13/13579_36042_spec_M.jpg",
+    "tags": [
+        "children",
+        "football",
+        "street"
+    ],
+    "type": "mp3",
+    "url": "http://www.freesound.org/people/RCA/sounds/13579/",
+    "user": {
+        "ref": "http://www.freesound.org/api/people/RCA/",
+        "url": "http://www.freesound.org/people/RCA/",
+        "username": "RCA"
+    },
+    "waveform_l": "http://www.freesound.org/data/displays/13/13579_36042_wave_L.png",
+    "waveform_m": "http://www.freesound.org/data/displays/13/13579_36042_wave_M.png"
+}
